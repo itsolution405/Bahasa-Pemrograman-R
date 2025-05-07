@@ -58,6 +58,7 @@ Gambar 1.4 Lisensi untuk R
 Gambar 1.8 Penentuan folder untuk startup
 
 8. Ketik tombol Next. Akan terlihat hasil seperti Gambar 1.9
+   
    ![image](https://github.com/itsolution405/Bahasa-Pemrograman-R/blob/main/Additional-Tasks-for-R-Installation.png)
    
    Gambar 1.9 Pilihan Lain Lain
