@@ -28,3 +28,5 @@ Pedoman untuk melakukan instalasi R di Windows adalah seperti berikut:
    ![image](https://github.com/itsolution405/Bahasa-Pemrograman-R/blob/main/select-setup-language-english.png)
 
 # Gambar 1.3 Pilihan Bahasa Inggris
+
+3. Klik tombol OK. Akan terlihat tampilan seperti pada gambar 1.4
