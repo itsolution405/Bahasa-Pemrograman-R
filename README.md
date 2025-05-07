@@ -1,5 +1,7 @@
 # Bahasa-Pemrograman-R
 
+https://github.com/itsolution405/Bahasa-Pemrograman-R/blob/main/R%20Programing.jpg
+
 # 1.1 Bahasa R
 
 R adalah bahasa pemrograman komputer yang di tunjukan secara khusus untuk menangani komputasi statistik dan memudahkan penyajian grafik.
