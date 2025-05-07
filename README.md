@@ -18,3 +18,11 @@ R dapat di gunakan untuk menangani pengelolahan citra (image processing), pembel
 Perangkat lunak R dapat di unduh melalui The Comprehensive R Archive Network (CRAN). Situsnya terdapat pada https://cran.r-project.org/.
 
 Versi yang di gunakan sebagai contoh untuk melakukan instalasi adlah R-3.5.0 for Windows. Tentu saja, Anda bisa menggambar versi yang terbaru dan menyesuaikan dengan platform yang di gunakan
+
+Pedoman untuk melakukan instalasi R di Windows adalah seperti berikut:
+
+1. Klik ganda pada berkas R-3.5.0-win.exe. Langkah ini
+   memunculkan konfirmasi untuk menginstal aplikasi ini.
+
+2. Klik pada tombol Yes. Akan muncul pilihan bahasa tercantum pada Gambar 1.3 Biarkan tetap English.
+   ![image](https://github.com/itsolution405/Bahasa-Pemrograman-R/blob/main/select-setup-language-english.png)
