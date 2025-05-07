@@ -37,4 +37,4 @@ Gambar 1.4 Lisensi untuk R
 
 4. Klik tombol Next. Akan muncul tampilan seperti gambar 1.5
 
-![image](![image](https://github.com/itsolution405/Bahasa-Pemrograman-R/blob/main/setup-r-for-windows.png))
+![image](https://github.com/itsolution405/Bahasa-Pemrograman-R/blob/main/penentuan%20lokasi%20instalasi%20R.png)
