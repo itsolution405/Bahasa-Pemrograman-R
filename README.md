@@ -46,4 +46,7 @@ Gambar 1.4 Lisensi untuk R
    Gambar 1.6 Penentuan komponen-komponen yang diinstal
 
 6. Klik tombol Next. Hasilnya di tunjukan pada gambar 1.7
+   
    ![image](https://github.com/itsolution405/Bahasa-Pemrograman-R/blob/main/Customize-Startup-Options.png)
+
+   Gambar 1.7 Pengaturan Startup
