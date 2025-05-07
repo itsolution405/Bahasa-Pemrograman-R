@@ -38,3 +38,7 @@ Gambar 1.4 Lisensi untuk R
 4. Klik tombol Next. Akan muncul tampilan seperti gambar 1.5
 
 ![image](https://github.com/itsolution405/Bahasa-Pemrograman-R/blob/main/penentuan%20lokasi%20instalasi%20R.png)
+
+5. Klik tombol Next. Akan terlihat tampilan seperti Gambar 1.6
+
+   ![image](https://github.com/itsolution405/Bahasa-Pemrograman-R/blob/main/R_4.png)
