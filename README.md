@@ -1,6 +1,6 @@
 # Bahasa-Pemrograman-R
 
-https://github.com/itsolution405/Bahasa-Pemrograman-R/blob/main/R%20Programing.jpg
+![image](https://github.com/itsolution405/Bahasa-Pemrograman-R/blob/main/R%20Programing.jpg)
 
 # 1.1 Bahasa R
 
