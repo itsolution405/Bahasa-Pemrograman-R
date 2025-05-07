@@ -50,3 +50,9 @@ Gambar 1.4 Lisensi untuk R
    ![image](https://github.com/itsolution405/Bahasa-Pemrograman-R/blob/main/Customize-Startup-Options.png)
 
    Gambar 1.7 Pengaturan Startup
+
+7. Klik tombol Next. Akan di peroleh tampilan seperti gambar 1.8
+   
+![image](https://github.com/itsolution405/Bahasa-Pemrograman-R/blob/main/select-start-menu.png)
+
+Gambar 1.8 Penentuan folder untuk startup
