@@ -42,3 +42,5 @@ Gambar 1.4 Lisensi untuk R
 5. Klik tombol Next. Akan terlihat tampilan seperti Gambar 1.6
 
    ![image](https://github.com/itsolution405/Bahasa-Pemrograman-R/blob/main/R_4.png)
+
+   Gambar 1.6 Penentuan komponen-komponen yang diinstal
