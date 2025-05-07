@@ -12,3 +12,8 @@ Hal yang menarik, R bisa di pakai menggunakan lisensi GNU GPL, selain itu, terse
 Bahasa R sangat cocok digunakan untuk menangani operasi yang melibatkan vektor dan matriks. operasi vektor, dan matriks dapat dikerjakan dengan perintah yang sangat singkat, R apat di gunakan sebagai bahasa MATLAB maupun Octave. Aplikasi utama R adalah untuk menangani komputasi staatistik dan memudahkan dalam penyajian grafik.
 
 R dapat di gunakan untuk menangani pengelolahan citra (image processing), pembelajaran mesin (machine learning), maupun data besar (big data).
+
+# 1.2 Instalasi R
+
+Perangkat lunak R dapat di unduh melalui The Comprehensive R Archive Network (CRAN). Situsnya terdapat pada https://cran.r-project.org/.
+jika Anda berada di Indonesia, pranala yang bisa digunakan adalah 
