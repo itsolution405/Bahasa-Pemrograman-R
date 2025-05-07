@@ -16,4 +16,5 @@ R dapat di gunakan untuk menangani pengelolahan citra (image processing), pembel
 # 1.2 Instalasi R
 
 Perangkat lunak R dapat di unduh melalui The Comprehensive R Archive Network (CRAN). Situsnya terdapat pada https://cran.r-project.org/.
-jika Anda berada di Indonesia, pranala yang bisa digunakan adalah 
+
+Versi yang di gunakan sebagai contoh untuk melakukan instalasi adlah R-3.5.0 for Windows. Tentu saja, Anda bisa menggambar versi yang terbaru dan menyesuaikan dengan platform yang di gunakan
