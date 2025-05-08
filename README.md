@@ -62,3 +62,18 @@ Gambar 1.8 Penentuan folder untuk startup
    ![image](https://github.com/itsolution405/Bahasa-Pemrograman-R/blob/main/Additional-Tasks-for-R-Installation.png)
    
    Gambar 1.9 Pilihan Lain Lain
+
+9. Klik tombol Next. Instalasi R mulai dilaksanakan.
+   gambar 1.10 menunjukan keadaan saat instalasi berlangsung
+
+   ![image](https://github.com/itsolution405/Bahasa-Pemrograman-R/blob/main/Final-Installation-Load.png)
+
+   Gambar 1.10 Instalasi R saat berlangsung
+
+10. Tunggu sampai muncul tampilan seperti Gambar 1.11
+    
+   ![image](https://github.com/itsolution405/Bahasa-Pemrograman-R/blob/main/RStudio-Finish-option.png)
+
+   Gambar 1.11 Keadaan ketika Instalasi telah di laksanakan
+
+11. Klok tombol Finish
