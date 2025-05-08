@@ -76,4 +76,4 @@ Gambar 1.8 Penentuan folder untuk startup
 
    Gambar 1.11 Keadaan ketika Instalasi telah di laksanakan
 
-11. Klok tombol Finish
+11. Klik tombol Finish
